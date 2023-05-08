@@ -1,0 +1,25 @@
+* {
+    font-family: 'Franklin Gothic Medium';
+}
+
+body {
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    overflow-y: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #050535;
+    height: 100vh;
+}
+
+.card {
+    color: #0c9c18;
+}
+
+.screen {
+    border-radius: 20px;
+    
+}
